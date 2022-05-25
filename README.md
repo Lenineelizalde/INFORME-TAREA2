@@ -10,6 +10,8 @@
 
 
 ## 2.- MARCO TEORICO
+En estos capitulos aprendemos cada uno de los concepto y formulas que se aplicaran para encontrar la resistencia, el voltaje y la corriente la formula que se aplique sera siempre la misma pero esta sera despejada dependiendo de los calculos que se desee realizar y los datos que nos den en un determinado ejercicio, de igual manera se estudia las relacion lineal entre la corriente y el voltaje asi como la relacion inversa entre la corriente y la resistencia.
+Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la formula de la energia y la potencia, todos estos conceptos se desarrollara de manera bien detallada para luego ser aplicada en los problemas que contienen estos capitulos los cuales nos ayudan a reforzar y comprender de una mejor manera.
 
 ### - Capitulo #3
 ![image](https://user-images.githubusercontent.com/105298935/170138998-85d6a3c7-6836-4d1c-9019-8a57e8752a18.png)
@@ -22,6 +24,30 @@
 ## 3.- EXPLICACION Y RESOLUCION DE EJERCICIOS
 
 ### 3.1 EJERCICIOS CAPITULO 3
+
+2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos
+
+
+4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+
+
+6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes
+en el mismo circuito.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 3.2 EJERCICIOS CAPITULO 4
 
