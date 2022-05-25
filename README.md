@@ -31,8 +31,19 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
 
-6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes
-en el mismo circuito.
+6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+
+
+
+
+8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+
+
+10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+![image](https://user-images.githubusercontent.com/105298935/170366804-f3d75089-8b8c-4796-b324-010aa6bf22b4.png)
+
+
+
 
 
 
