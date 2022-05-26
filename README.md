@@ -63,7 +63,21 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 ![image](https://user-images.githubusercontent.com/105298935/170392182-70ab5576-3747-461a-8fe0-692baa66e479.png)
 
 
+12. Calcule el voltaje para cada valor de I y R:
 
+
+
+
+
+
+
+
+13.Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para
+obtener las cantidades de corriente indicadas
+![image](https://user-images.githubusercontent.com/105298935/170392980-82e5f8cb-3a20-4057-a3b4-79198129dbb7.png)
+
+
+14. Encuentre la resistencia de un reóstato para cada valor de V e I:
 
 
 
