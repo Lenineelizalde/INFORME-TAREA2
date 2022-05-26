@@ -228,11 +228,47 @@ La resistencia minima con la que el fusile se fundira es de 90 Ohm
 
 4. Convierta las siguientes cantidades en miliwatts:
 
+![image](https://user-images.githubusercontent.com/105298935/170424646-862ff519-a79b-422f-8cd1-ec365c4fe03b.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170424662-948464e4-6aba-4b93-94a5-c852e9d2aeda.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170424679-6d757bd8-b16e-4df3-a9a2-57bcd64f6fec.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170424696-68ef6e42-f994-4cf0-8ef7-29e68d7e6641.png)
 
 
 
+5. Convierta las siguientes cantidades en watts:
+
+![image](https://user-images.githubusercontent.com/105298935/170425381-6d74a35f-b13b-41bf-813e-7c17e78c075a.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170425401-8b7f5511-aba5-47d5-80a4-18f1a73a6ac5.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170425427-9246f186-8695-40f4-bae9-aa3bbb5c96a0.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170425448-625e903c-60f6-4f89-a007-151001a435e2.png)
 
 
+
+6. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+
+![image](https://user-images.githubusercontent.com/105298935/170426202-a99c7637-b7ae-4a2a-8aa4-0934532afbee.png)
+
+
+
+7. Convierta 5*10^6 watsts-minutos en kWh.
+
+![image](https://user-images.githubusercontent.com/105298935/170426650-e2cb223d-86b8-49d4-9728-5218f8d814d0.png)
+
+
+
+8. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
+
+![image](https://user-images.githubusercontent.com/105298935/170427377-5ebed365-b235-4bf3-b91e-16876acc1212.png)
+
+
+
+9. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
 
 
