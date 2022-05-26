@@ -31,11 +31,24 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 
 2. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
+![image](https://user-images.githubusercontent.com/105298935/170405218-94609259-f9a6-4ef9-b1e5-0ff4811926e8.png)
 
 3. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 
+![image](https://user-images.githubusercontent.com/105298935/170407743-f34e0f96-2286-47a2-aa1a-6e7cc8dbccd9.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170407777-d2747ad1-5fda-493b-ae24-a5d2a8539b4f.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170407793-f58e1f1a-37a0-4f10-807c-a83f195cfa54.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170407835-9ea1413d-d535-408d-9da8-5482316ce2aa.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170407863-1199cd85-a27c-47a4-970b-962affbdee5c.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170407969-56f79cf7-60bb-45f6-937a-9e3082e11b0a.png)
 
 4. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+
 
 
 5. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
