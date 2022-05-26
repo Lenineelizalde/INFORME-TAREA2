@@ -27,6 +27,7 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 
 1. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos
 
+![image](https://user-images.githubusercontent.com/105298935/170403805-4c2f07fe-49a9-4090-ab55-be6001ab45e7.png)
 
 2. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
