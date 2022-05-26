@@ -25,22 +25,43 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 
 ### 3.1 EJERCICIOS CAPITULO 3
 
-2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos
+1. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos
 
 
-4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
+2. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
 
-6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
+3. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 
 
+4. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 
 
-8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
-
-
-10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+5. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 ![image](https://user-images.githubusercontent.com/105298935/170366804-f3d75089-8b8c-4796-b324-010aa6bf22b4.png)
+
+
+6. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+
+7. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+8. Determine la corriente en cada caso:
+
+
+
+
+
+9. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+
+10.  Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+
+
+11. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+![image](https://user-images.githubusercontent.com/105298935/170392182-70ab5576-3747-461a-8fe0-692baa66e479.png)
+
 
 
 
