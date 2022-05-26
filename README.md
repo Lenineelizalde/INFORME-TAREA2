@@ -202,7 +202,31 @@ La resistencia minima con la que el fusile se fundira es de 90 Ohm
 
 ### 3.2 EJERCICIOS CAPITULO 4
 
+1. Demuestre que hay 3.6 * 10^6 joules en un kilowatt-hora.
 
+![image](https://user-images.githubusercontent.com/105298935/170421777-decfccf3-ba9a-4b60-8a48-843dab4540b8.png)
+
+
+
+2. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+![image](https://user-images.githubusercontent.com/105298935/170422295-b7d348ab-7a84-4a13-99b7-0d9d3ca27cd3.png)
+
+
+
+3. Convierta las siguientes cantidades en kilowatts:
+
+![image](https://user-images.githubusercontent.com/105298935/170422951-5a899e6c-716f-4802-8820-8e70234b354c.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170422973-1513488f-1e11-45a0-8cb7-94a551181709.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170423014-c5b123a8-3ef0-46a1-a7f0-8c9f0acae6e9.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170423037-eb557f8c-31bd-450e-99b2-7164a8fd367a.png)
+
+
+
+4. Convierta las siguientes cantidades en miliwatts:
 
 
 
