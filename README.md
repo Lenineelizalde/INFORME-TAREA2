@@ -308,7 +308,7 @@ La resistencia minima con la que el fusile se fundira es de 90 Ohm
 
 ## 4.- VIDEO
 
-
+https://youtu.be/chMyeyt_cD4
 
 ## 5.- CONCLUCIONES 
 -  Tras el analisis, la lectura y la practica logramos describir las relacion lineal entre el voltaje y la corriente y tambien la relacion inversa entre corriente y resistencia.
