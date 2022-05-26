@@ -62,6 +62,7 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 
 
 5. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
+
 ![image](https://user-images.githubusercontent.com/105298935/170366804-f3d75089-8b8c-4796-b324-010aa6bf22b4.png)
 
 ![image](https://user-images.githubusercontent.com/105298935/170411181-0ddf49b9-7545-43b8-9e1d-cd1831caf6be.png)
@@ -117,6 +118,7 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 
 
 11. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
+
 ![image](https://user-images.githubusercontent.com/105298935/170392182-70ab5576-3747-461a-8fe0-692baa66e479.png)
 
 ![image](https://user-images.githubusercontent.com/105298935/170415766-7784feb7-7483-48aa-961f-ce69294c800a.png)
@@ -147,28 +149,85 @@ Se necesita un fusible de 2.5 A debido a que la corriente es igual a 2.5A, con u
 
 13.Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para
 obtener las cantidades de corriente indicadas
+
 ![image](https://user-images.githubusercontent.com/105298935/170392980-82e5f8cb-3a20-4057-a3b4-79198129dbb7.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170418063-f287f06e-b291-4c5c-85f6-be6bb5fbb6f5.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170418073-c55073cf-1b52-476e-94d6-1f398d502082.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170418091-a9b2c701-c630-40e0-84b7-e87f43d421d4.png)
+
 
 
 14. Encuentre la resistencia de un reóstato para cada valor de V e I:
 
+![image](https://user-images.githubusercontent.com/105298935/170418559-a36b1292-58d8-457b-be4e-dbb962923e94.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170418570-55b5bec1-514f-4787-a2f6-4c3f671c2e06.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170418603-36dcef0b-c495-4a1b-9ad7-77700823e9f0.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170418625-c23366a3-7ebc-48bd-b37a-0628f8aa58cd.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170418641-3eb4068f-4c66-41f4-84ca-7432166a9e77.png)
 
 
 
+15. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![image](https://user-images.githubusercontent.com/105298935/170419135-e2f76e3f-8e30-4074-9bf6-70e106d31672.png)
 
 
 
+16. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+
+![image](https://user-images.githubusercontent.com/105298935/170419851-40872061-f870-41b2-89bb-f5b70ee817f9.png)
 
 
 
+17. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ohm
+
+La resistencia minima con la que el fusile se fundira es de 90 Ohm
 
 
 
+18. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
+![image](https://user-images.githubusercontent.com/105298935/170420184-46561397-f059-4540-8c75-287fa99c3c66.png)
+
+- Deacuerdo a las medidas dados por el Ohmentro el foco numero 3 esta fundido.
 
 
 
 ### 3.2 EJERCICIOS CAPITULO 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## 4.- VIDEO
