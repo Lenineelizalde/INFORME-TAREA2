@@ -270,14 +270,37 @@ La resistencia minima con la que el fusile se fundira es de 90 Ohm
 
 9. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
 
+![image](https://user-images.githubusercontent.com/105298935/170427654-998a67d4-1d37-4f42-9c9d-da08de35802c.png)
 
 
 
+10. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4?7 kiloOhm?
+
+![image](https://user-images.githubusercontent.com/105298935/170428082-6f3e32f8-d0fc-413e-bc84-0f276edc6e31.png)
 
 
 
+11. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/105298935/170428460-d385c43d-ad56-4e5d-9aa8-d39dda43a21c.png)
 
 
+
+12. Si un resistor tiene que transportar 2 Ade corriente y manejar 100 Wde potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+![image](https://user-images.githubusercontent.com/105298935/170428838-66367357-8b2a-412d-8b89-1d92d12448cd.png)
+
+
+
+13. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+
+![image](https://user-images.githubusercontent.com/105298935/170429491-74f02ab7-232f-41b4-a4e1-69c52c44d6e9.png)
+
+- Se necesita un resistor de 1W para este circuito debido a que su potencia es de 0.68W
+
+
+
+14. 
 
 
 
