@@ -70,7 +70,7 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 
 ![image](https://user-images.githubusercontent.com/105298935/170411205-b37c7e04-9d63-497f-af9e-e4820daa59b6.png)
 
-Respuesta= El circuito C tine mayor corriente, mientras que el circuitos con menor corriente es el A
+- El circuito C tine mayor corriente, mientras que el circuitos con menor corriente es el A
 
 
 
@@ -78,37 +78,70 @@ Respuesta= El circuito C tine mayor corriente, mientras que el circuitos con men
 
 ![image](https://user-images.githubusercontent.com/105298935/170412168-312b1a9c-e783-43cc-930e-8c5765f4dc6a.png)
 
-Respuesta= El nuevo valo es de 30V
+- El nuevo valo es de 30V
 
 
 
 7. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
 
+![image](https://user-images.githubusercontent.com/105298935/170412720-500971cb-0bfe-4cc4-b7f0-b7be9c524604.png)
+
+- En esta imagan se representa el voltaje y la corriente, es un funcion lineal por lo tanto si el voltaje aumenta la corriente tambien y si el voltaje disminuye la corriente tambien disminuye, en esta grafica estan representados 4 funciones debido a que existen 4 relaciones entre volytaje y corriente.
+
 
 
 8. Determine la corriente en cada caso:
 
+![image](https://user-images.githubusercontent.com/105298935/170413763-9609433c-6d8c-4d6e-af78-c7d3eb5f4a62.png)
 
+![image](https://user-images.githubusercontent.com/105298935/170413793-33143b78-afa0-4c0a-a410-0856b8025cc8.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170413813-787981eb-0e6b-4410-a251-615b83c0eaaf.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170413844-aa1e41f0-a25e-46d3-bc5a-0fb7af1f8459.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170413877-ff7aa1e8-bed5-4b19-9e68-ae8081871bd4.png)
 
 
 
 9. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
+![image](https://user-images.githubusercontent.com/105298935/170414771-013a815a-66cb-4f71-b6dc-76c14a3a430c.png)
+
+
 
 10.  Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
+
+![image](https://user-images.githubusercontent.com/105298935/170415183-bfa5c166-53e1-4d8e-836f-e8d10f1d68ac.png)
 
 
 
 11. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 Ω menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente?
 ![image](https://user-images.githubusercontent.com/105298935/170392182-70ab5576-3747-461a-8fe0-692baa66e479.png)
 
+![image](https://user-images.githubusercontent.com/105298935/170415766-7784feb7-7483-48aa-961f-ce69294c800a.png)
+
+Se necesita un fusible de 2.5 A debido a que la corriente es igual a 2.5A, con un fusible de este valor el circuito estra protegido
+
+
 
 12. Calcule el voltaje para cada valor de I y R:
 
+![image](https://user-images.githubusercontent.com/105298935/170417186-b8ac0a8b-a828-464a-8e35-8b23ae77d2bc.png)
 
+![image](https://user-images.githubusercontent.com/105298935/170417216-ca87475b-4bd5-42e3-9d5b-1747cbe72cea.png)
 
+![image](https://user-images.githubusercontent.com/105298935/170417235-7168b3c5-9739-4244-a35b-aad841ff3c2b.png)
 
+![image](https://user-images.githubusercontent.com/105298935/170417258-f2d10e91-0cb3-4374-b714-1dc355d5dc84.png)
 
+![image](https://user-images.githubusercontent.com/105298935/170417280-1ae83e2f-f1da-4823-93b4-01a7e7889cd9.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170417297-a0ae40e6-7f23-4313-a7df-773c864caa4b.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170417310-6ef133af-6bd3-45b4-92f2-898b092338e1.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170417381-ba5fb5d3-66ce-445f-a561-89921c41e54f.png)
 
 
 
