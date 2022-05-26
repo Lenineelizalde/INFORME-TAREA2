@@ -300,16 +300,9 @@ La resistencia minima con la que el fusile se fundira es de 90 Ohm
 
 
 
-14. 
+14. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
 
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/105298935/170431560-5dd28692-3298-42ed-aafc-f9f2794db5fa.png)
 
 
 
