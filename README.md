@@ -29,9 +29,13 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 
 ![image](https://user-images.githubusercontent.com/105298935/170403805-4c2f07fe-49a9-4090-ab55-be6001ab45e7.png)
 
+
+
 2. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
 ![image](https://user-images.githubusercontent.com/105298935/170405218-94609259-f9a6-4ef9-b1e5-0ff4811926e8.png)
+
+
 
 3. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 
@@ -47,18 +51,40 @@ Tambien se desarrollara diferentes ejercicios ralizando calculos a partir de la 
 
 ![image](https://user-images.githubusercontent.com/105298935/170407969-56f79cf7-60bb-45f6-937a-9e3082e11b0a.png)
 
+
+
 4. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
+
+![image](https://user-images.githubusercontent.com/105298935/170410251-864ec70f-d054-40d4-adc3-fcb6145fc2d2.png) 
+
+![image](https://user-images.githubusercontent.com/105298935/170410183-cbc827fb-47d9-422a-9eac-bb37db43ee0f.png)
 
 
 
 5. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 ![image](https://user-images.githubusercontent.com/105298935/170366804-f3d75089-8b8c-4796-b324-010aa6bf22b4.png)
 
+![image](https://user-images.githubusercontent.com/105298935/170411181-0ddf49b9-7545-43b8-9e1d-cd1831caf6be.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170411190-f207b2c3-a4c5-4657-9cf6-f41dd0ad84b4.png)
+
+![image](https://user-images.githubusercontent.com/105298935/170411205-b37c7e04-9d63-497f-af9e-e4820daa59b6.png)
+
+Respuesta= El circuito C tine mayor corriente, mientras que el circuitos con menor corriente es el A
+
+
 
 6. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
+![image](https://user-images.githubusercontent.com/105298935/170412168-312b1a9c-e783-43cc-930e-8c5765f4dc6a.png)
+
+Respuesta= El nuevo valo es de 30V
+
+
 
 7. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
+
 
 8. Determine la corriente en cada caso:
 
